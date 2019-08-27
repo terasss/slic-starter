@@ -70,7 +70,7 @@ We chose a _monorepo_ approach. Every serverless module (service) is a folder at
 
 1. Getting started and onboarding developers becomes easier when everything is in one repo.
 1. Dependencies on common code and libraries are easier when you avoid referencing.
-1. All applcation code and infrastructure-as-code exist together.
+1. All application code and infrastructure-as-code exist together.
 1. Changes across multiple services are managed and tracked in the same commits, PRs and merges.
 1. End-to-end tests exist in the same place as the code under test.
 
